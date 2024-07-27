@@ -5,6 +5,9 @@
 # +========================================+
 #
 # Made this instead of using OMZ, I just needed simplicity
+#
+# Plugins that I like
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # My alias's
 alias perve="python -m http.server --bind 127.0.0.1 31420"
