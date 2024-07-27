@@ -1,5 +1,3 @@
-
-
 # +========================================+
 # |░█▀█░█░█░█░█░█░█░█▀█░█▀▄░█▀▄░█▀▀░█▀▀░█▀▄|
 # |░█▀█░█▄█░█▀▄░█▄█░█░█░█▀▄░█░█░▀▀█░█▀▀░█░█|
@@ -9,10 +7,10 @@
 # Made this instead of using OMZ, I just needed simplicity
 
 # My alias's
-# No need for explaing what perve is right
-# Each time I need run a http server, I use this
 alias perve="python -m http.server --bind 127.0.0.1 31420"
 alias x="exit"
+alias zim="vim ~/.zshrc"
+alias ls="lsd"
 
 # My Prompt, yeah what I can't write comments
 PROMPT="%F{#FBFF00}%n%F{reset_color}::%F{#00FFFF}%m%F{reset_color} >> %d [%t]
