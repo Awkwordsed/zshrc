@@ -1,3 +1,3 @@
 # zshrc
-#Autosuggestion
+* Autosuggestion 
 https://github.com/zsh-users/zsh-autosuggestions
